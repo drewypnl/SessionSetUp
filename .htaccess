@@ -1,0 +1,2 @@
+#.htacccess file to set up session and connection variables for the server
+php_value auto_prepend_file "prepend.php"
